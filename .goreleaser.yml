@@ -17,4 +17,4 @@ archive:
     darwin: macOS
     linux: linux
   files:
-    - iap-dump.licence.txt
+    - LICENSE
