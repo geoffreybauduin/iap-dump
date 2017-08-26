@@ -1,6 +1,5 @@
 # iap-dump
-
-[![Travis](https://img.shields.io/travis/geoffreybauduin/iap-dump)](github.com/geoffreybauduin/iap-dump)
+[![Build Status](https://travis-ci.org/geoffreybauduin/iap-dump.svg?branch=master)](https://travis-ci.org/geoffreybauduin/iap-dump)
 [![GitHub release](https://img.shields.io/github/release/geoffreybauduin/iap-dump.svg)](https://github.com/geoffreybauduin/iap-dump/releases)
 
 A command-line application dumping data from an InAppPurchase receipt
